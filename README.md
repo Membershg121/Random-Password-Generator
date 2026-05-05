@@ -25,5 +25,5 @@
 1. Убедитесь, что установлен Python 3.6 или выше.
 2. Скачайте или склонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/RandomPasswordGenerator.git
+   git clone https://github.com/Membershg121/RandomPasswordGenerator.git
    cd RandomPasswordGenerator
