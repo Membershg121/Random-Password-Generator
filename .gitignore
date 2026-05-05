@@ -1,0 +1,87 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Файлы истории и данных проекта
+history.json
+*.json
+!requirements.json  # если нужен пример структуры JSON
+passwords_backup.json
+*.log
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+*.sln
+*.csproj
+
+# Файлы настроек
+.env
+.config
+.local
+*.ini
+!requirements.txt
+
+# Временные файлы
+temp/
+tmp/
+*.tmp
+*.bak
+*.backup
+*.cache
+
+# Jupyter Notebook (если используется)
+.ipynb_checkpoints/
+*.ipynb
+
+# Файлы тестов и отчётов
+test_*.py
+*_test.py
+coverage/
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Git
+*.orig
+.git/
+.gitignore
+.gitattributes
+
+# Системные файлы
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Файлы логов
+*.log
+logs/
+error.log
+debug.log
+
+# Ключи и секреты
+*.key
+*.pem
+*.crt
+*.p12
+secrets.txt
